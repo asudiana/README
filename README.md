@@ -25,14 +25,8 @@ MYPROFILE
   <img style="margin-right:10px" align="left" alt="sudiana linkedin" width="24px" src="https://camo.githubusercontent.com/0d70d8c72e2f45755511d6799489dc49d0e325f0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63652f30392f33632f63653039336337323134616433353762623636356366643266363661386236622e706e67" />
 </a>
 
-<a href="https://github.com/asudiana">
+<a href="https://github.com/danasudiana">
   <img style="margin-right:10px" align="left" alt="asudiana github" width="23px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 </a>
 
-<a href="https://www.hackster.io/sudiana">
-  <img style="margin-right:10px" align="left" alt="sudiana hackster" width="23px" src="https://user-images.githubusercontent.com/10383395/49821324-358fa080-fda0-11e8-8b00-def2a67fc598.png" />
-</a>
 
-<a href="https://sudiana.github.io/me/">
-  <img style="margin-right:10px" align="left" alt="sudiana bio" width="24px" src="https://avatars2.githubusercontent.com/u/30064213?s=460&u=6640a1c3d5c1892283e1c273006755de8d32fa59&v=4" />
-</a>
