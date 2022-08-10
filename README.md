@@ -4,11 +4,6 @@ MYPROFILE
 |---|
 |<center><img src="./trex.gif"/></center>|
 
-|||
-|---|---|
-|![sudiana github stat](https://github-readme-stats.vercel.app/api?username=sudiana&show_icons=true&hide_border=true&theme=vue)|![sudiana top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sudiana&layout=compact&hide_border=true&theme=vue)| 
-
-<br>
 
 <a href="mailto: sudiana811@gmail.com">
   <img align="left" style="margin-right:10px" alt="sudiana ymail" width="22px" src="https://camo.githubusercontent.com/b6e5ff081d7552ec05656de193794847e14d47ad/68747470733a2f2f732e79696d672e636f6d2f63762f61706976322f6d79632f6d61696c2f4d61696c5f694f535f6170705f69636f6e2e706e67" />
