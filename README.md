@@ -2,7 +2,7 @@
 MYPROFILE
 ||
 |---|
-|<center><img src="./trex.gif"/></center>|
+|<center><img src="./kodok.gif"/></center>|
 
 
 <a href="mailto: sudiana811@gmail.com">
